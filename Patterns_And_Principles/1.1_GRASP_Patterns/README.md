@@ -1,6 +1,6 @@
 # GRASP
 
-| GRASP - **G**eneral **R**esponsibly **A**ssignment **S**oftware **P**atterns
+| GRASP — **G**eneral **R**esponsibly **A**ssignment **S**oftware **P**atterns
 | These are the main templates for duties distribution in Software
 | GRASP consists of 9 templates:
 
@@ -24,7 +24,8 @@
 
 ## Information Expert 
 
-| The main point of this pattern - **provides object information**
+| The main point of this pattern — **provides object information**
+
 | The secondary point is to divide **the roles and rights**
 
 ## Controller 
@@ -34,6 +35,7 @@
 ## Low Coupling
 
 | This pattern is responsible for **low coupling between entities**
+
 | It helps to avoid some problems:
      
 - Local changes should be made during changes in linked classes
@@ -47,7 +49,8 @@
 ## Pure Fabrication
 
 | This pattern ensures that our project has **Low Coupling and High Cohesion**
-| Almost all **Facade** - Pure Fabrication
+
+| Almost all **Facade** — Pure Fabrication
 
 ## Polymorphism
 
@@ -56,11 +59,13 @@
 ## Indirection
 
 | Always should exist the **intermediary entity**
+
 | Each object **should be called by intermediary entity**
 
 ## Protected variations
 
 | This is **a target**, not a pattern
+
 | We will achieve this target **only if we comply other patterns**
 
 
