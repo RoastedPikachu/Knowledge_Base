@@ -24,3 +24,19 @@
 
 ## Liskov Substitution Principle
 
+| The parent class should be **replaceable by child class** without correctness changing
+
+| This principle appears **from inheritance and polymorphism** 
+
+## Interface Segregation
+
+| Entities **shouldn't depend** on methods they **don't use**
+
+| This principle appears **from incapsulation, inheritance and polymorphism**
+
+## Dependency Inversion
+
+| High level **entities shouldn't depend on low level entities**. All entities should depend on abstractions and **abstractions shouldn't depend on details**.
+
+| This principle appears from **polymorphism and inheritance**
+

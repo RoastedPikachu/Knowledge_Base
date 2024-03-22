@@ -12,15 +12,12 @@ class User {
     save() {
 
     }
-
     log() {
 
     }
-
     send() {
 
     }
-
     print() {
 
     }
@@ -49,7 +46,6 @@ class Sender {
     send() {
 
     }
-
     get() {
 
     }
@@ -59,7 +55,6 @@ class Printer {
     printToPDF() {
 
     }
-
     printToDocx() {
 
     }
@@ -69,11 +64,9 @@ class Database {
     save() {
 
     }
-
     change() {
 
     }
-
     read() {
         
     }
