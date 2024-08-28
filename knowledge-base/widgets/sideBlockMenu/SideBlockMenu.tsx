@@ -3,7 +3,7 @@ import React from "react";
 import "./SideBlockMenu.css";
 
 const SideBlockMenu = () => {
-  return <div></div>;
+  return <aside></aside>;
 };
 
 export default SideBlockMenu;

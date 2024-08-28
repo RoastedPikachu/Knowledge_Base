@@ -1,0 +1,19 @@
+.logoWrapper {
+    @apply flex items-center mt-[5px] text-[--default-text-color] text-[2.5rem] font-['RubikMono'];
+}
+
+.logoWrapper_PurpleText {
+    @apply text-[--purple-color];
+}
+
+.logoWrapper_BlueText {
+    @apply text-[--blue-color];
+}
+
+.logoWrapper_MiddleText {
+    @apply mt-[8px] mx-[10px] text-[1.5rem] font-['NewAmsterdam'];
+}
+
+.logoWrapper_RussianText {
+    @apply flex items-center;
+}

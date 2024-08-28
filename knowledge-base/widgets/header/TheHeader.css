@@ -1,0 +1,3 @@
+header {
+    @apply relative flex items-center w-full px-[40px] h-[80px] border-b-[2px] border-[--default-border-color];
+}
