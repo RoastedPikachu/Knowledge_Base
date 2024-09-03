@@ -1,3 +1,0 @@
-aside {
-    @apply w-[280px] h-[calc(100vh-80px)] border-r-[2px] border-[--default-border-color];
-}
